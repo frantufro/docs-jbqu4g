@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-pn7yea.rexlive.live/sitemap.xml
